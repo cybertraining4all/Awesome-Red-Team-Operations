@@ -654,6 +654,7 @@
 
 - https://github.com/sting8k/BurpSuite_403Bypasser - Burpsuite Extension to bypass 403 restricted directory
 
+- https://github.com/ASCIT31/Dark-Moon - autonomous AI pentest platform / MCP host with per-tech offensive agents across web, Active Directory and Kubernetes, producing proof-based findings
 - https://github.com/BishopFox/GadgetProbe
 
 ## Web Exploitation Tools
