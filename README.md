@@ -800,6 +800,7 @@
 
 - Network Flight Simulator - flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. https://github.com/alphasoc/flightsim
 
+- Darkmoon - Open source autonomous AI penetration testing platform and MCP host covering web, API, Active Directory and Kubernetes. https://github.com/ASCIT31/Dark-Moon
 - Metta - A security preparedness tool to do adversarial simulation. https://github.com/uber-common/metta
 
 - Red Team Automation (RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK. https://github.com/endgameinc/RTA
